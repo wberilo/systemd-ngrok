@@ -1,5 +1,7 @@
 # Installation
 
+ARM ARCHITECTURE VERSION
+
 Step 1: Place [`ngrok`](https://ngrok.com/download) in `/opt/ngrok/`.
 
 Step 2: Get `authtoken` from ngrok website, then add it to `/opt/ngrok/ngrok.yml`.
